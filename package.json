@@ -1,0 +1,43 @@
+{
+  "name": "gatsby-starter-minimal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Gatsby starter with no plugins and a single welcome page.",
+  "author": "Laurie Barth",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "license": "0BSD",
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@material-ui/styles": "^4.11.2",
+    "bootstrap": "^4.5.3",
+    "classnames": "^2.2.6",
+    "dotenv": "^8.2.0",
+    "faunadb": "^4.0.0",
+    "formik": "^2.2.6",
+    "gatsby": "^2.26.1",
+    "gatsby-plugin-material-ui": "^2.1.10",
+    "gatsby-plugin-react-helmet": "^3.7.0",
+    "gatsby-plugin-sass": "^2.8.0",
+    "gatsby-plugin-typescript": "^2.9.0",
+    "jquery": "^3.5.1",
+    "mdi-material-ui": "^6.21.0",
+    "node-sass": "^4.14.1",
+    "popper.js": "^1.16.1",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0",
+    "sweetalert2": "^10.12.6"
+  }
+}
